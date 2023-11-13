@@ -56,6 +56,7 @@ IMPORTANT: Disable AV [Anti-Virus] to get the best performace.
 
 -Place stub in appdata
 -Add to startup registry
+
 -=======-
 
 ---
