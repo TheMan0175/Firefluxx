@@ -13,7 +13,9 @@
 IMPORTANT: Disable AV [Anti-Virus] to get the best performance. It is also to prevent the AV from deleting the main file.
 
 ❄️ Temporarily disable your antivirus to prevent interference with system optimization.
+
 ❄️ Open "Icefluxx.exe" for exclusive access to configuration settings.
+
 ❄️ Quick to use, User-Friendly GUI.
 
 -=======-
