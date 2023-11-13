@@ -19,6 +19,7 @@ IMPORTANT: Disable AV [Anti-Virus] to get the best performance. It is also to pr
 ❄️ Quick to use, User-Friendly GUI.
 
 -=======-
+
 -=Discord token info
 -Nitro
 -Badges
