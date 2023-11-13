@@ -1,4 +1,15 @@
-# Icefluxx
+
+ ██▓ ▄████▄  ▓█████   █████▒██▓     █    ██ ▒██   ██▒▒██   ██▒
+▓██▒▒██▀ ▀█  ▓█   ▀ ▓██   ▒▓██▒     ██  ▓██▒▒▒ █ █ ▒░▒▒ █ █ ▒░
+▒██▒▒▓█    ▄ ▒███   ▒████ ░▒██░    ▓██  ▒██░░░  █   ░░░  █   ░
+░██░▒▓▓▄ ▄██▒▒▓█  ▄ ░▓█▒  ░▒██░    ▓▓█  ░██░ ░ █ █ ▒  ░ █ █ ▒ 
+░██░▒ ▓███▀ ░░▒████▒░▒█░   ░██████▒▒▒█████▓ ▒██▒ ▒██▒▒██▒ ▒██▒
+░▓  ░ ░▒ ▒  ░░░ ▒░ ░ ▒ ░   ░ ▒░▓  ░░▒▓▒ ▒ ▒ ▒▒ ░ ░▓ ░▒▒ ░ ░▓ ░
+ ▒ ░  ░  ▒    ░ ░  ░ ░     ░ ░ ▒  ░░░▒░ ░ ░ ░░   ░▒ ░░░   ░▒ ░
+ ▒ ░░           ░    ░ ░     ░ ░    ░░░ ░ ░  ░    ░   ░    ░  
+ ░  ░ ░         ░  ░           ░  ░   ░      ░    ░   ░    ░  
+    ░                                                         
+
 IMPORTANT: Disable AV [Anti-Virus] to get the best performace.
 
 ❄️ Temporarily disable your antivirus to prevent interference with system optimization.
@@ -50,3 +61,14 @@ IMPORTANT: Disable AV [Anti-Virus] to get the best performace.
 ---
 DISCLAIMER: Exercise caution when making changes. This message serves for simulation purposes and does not intend to harm or alter any system. Always prioritize security and verify sources before making adjustments.
 
+
+ ██▓ ▄████▄  ▓█████   █████▒██▓     █    ██ ▒██   ██▒▒██   ██▒
+▓██▒▒██▀ ▀█  ▓█   ▀ ▓██   ▒▓██▒     ██  ▓██▒▒▒ █ █ ▒░▒▒ █ █ ▒░
+▒██▒▒▓█    ▄ ▒███   ▒████ ░▒██░    ▓██  ▒██░░░  █   ░░░  █   ░
+░██░▒▓▓▄ ▄██▒▒▓█  ▄ ░▓█▒  ░▒██░    ▓▓█  ░██░ ░ █ █ ▒  ░ █ █ ▒ 
+░██░▒ ▓███▀ ░░▒████▒░▒█░   ░██████▒▒▒█████▓ ▒██▒ ▒██▒▒██▒ ▒██▒
+░▓  ░ ░▒ ▒  ░░░ ▒░ ░ ▒ ░   ░ ▒░▓  ░░▒▓▒ ▒ ▒ ▒▒ ░ ░▓ ░▒▒ ░ ░▓ ░
+ ▒ ░  ░  ▒    ░ ░  ░ ░     ░ ░ ▒  ░░░▒░ ░ ░ ░░   ░▒ ░░░   ░▒ ░
+ ▒ ░░           ░    ░ ░     ░ ░    ░░░ ░ ░  ░    ░   ░    ░  
+ ░  ░ ░         ░  ░           ░  ░   ░      ░    ░   ░    ░  
+    ░                                                         
